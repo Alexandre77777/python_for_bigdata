@@ -1,7 +1,7 @@
 # Прикладная информатика. Магистратура. I семестр
 В данном репозитории представлен перечень материалов по предмету **"Языки программирования для работы с большими данными"** для студентов группы **ФГиИБ-ПИ-1м**.
 
-[Статистика выполнения работ **ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/1CVikRlmecWbLVFZJQ3b6dAR56H7_XW263LFuinffXZw/edit?gid=1016233301#gid=1016233301) 
+[Статистика выполнения работ **ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/12dDKMAFfDtrMIfYAkLMc3LQvcc3UWzinmwzQcOIqOhU/edit?usp=sharing) 
 
 Ссылка на базовый курс по Python: https://github.com/Alexandre77777/python_programming
 
